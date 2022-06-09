@@ -1,0 +1,23 @@
+.input{
+    border-color: black;
+    border-width: .2rem;
+    border-radius: .5ch;
+}
+
+.btn{
+    padding: .2%;
+    margin: 1%;
+    border-color: teal;
+    border-width: .1rem;
+    border-radius: .3ch;
+    width: 8%;
+    cursor:pointer;
+}
+
+.btn:hover{
+    background-color: rgb(95, 129, 0);
+    color: azure;
+}
+.weather{
+    color: bisque;
+}

@@ -1,0 +1,17 @@
+.country{
+    color: antiquewhite;
+}
+.btn{
+    background-color: rgb(104, 105, 5);
+    color: cornflowerblue;
+    cursor: pointer;
+    font-size: larger;
+}
+.btn:hover{
+    background-color: antiquewhite;
+}
+
+.img{
+    height: auto;
+    width: auto;
+}
